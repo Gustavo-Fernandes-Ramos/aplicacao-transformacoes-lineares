@@ -1,0 +1,5 @@
+
+public enum ModoDeUso 
+{
+    DESENHO, TRANSLACAO, ROTACAO, ESCALA, NENHUM
+}

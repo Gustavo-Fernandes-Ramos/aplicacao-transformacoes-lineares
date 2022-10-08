@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Retangulo(double,\ double,\ double,\ double)
+comment10.params=
+comment10.target=double\ calcularCentroY()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=x1\ y1\ x2\ y2\ x3\ y3\ x4\ y4
+comment2.target=Retangulo(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment3.params=p1\ p2
+comment3.target=Retangulo(ponto.Ponto,\ ponto.Ponto)
+comment4.params=r
+comment4.target=Retangulo(reta.Reta)
+comment5.params=diagonal
+comment5.target=void\ setDiagonal(reta.Reta)
+comment6.params=
+comment6.target=reta.Reta\ getDiagonal()
+comment7.params=diagonalInversa
+comment7.target=void\ setDiagonalInversa(reta.Reta)
+comment8.params=
+comment8.target=reta.Reta\ getDiagonalInversa()
+comment9.params=
+comment9.target=double\ calcularCentroX()
+numComments=12

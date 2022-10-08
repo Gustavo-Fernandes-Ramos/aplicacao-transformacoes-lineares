@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TransformGeom
+comment1.params=matriz\ deltaX\ deltaY
+comment1.target=double[][]\ translacionarPonto(double[][],\ double,\ double)
+comment2.params=matriz\ xLinha\ yLinha\ angulo
+comment2.target=double[][]\ rotacionarPonto(double[][],\ double,\ double,\ int)
+comment3.params=matriz\ xLinha\ yLinha\ escalaX\ escalaY
+comment3.target=double[][]\ escalarPonto(double[][],\ double,\ double,\ double,\ double)
+numComments=4
